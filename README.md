@@ -43,7 +43,7 @@ Version check: `php71 -v`
 
 
 ### Configs?
-In case you wonder, where the F**CK is my PHP / PHP FPM Config?
+In case you wonder, where the F**CK are my PHP / PHP FPM Config?
     
     /etc/opt/remi/php71/
     /etc/opt/remi/php71/php-fpm.d/www.conf
